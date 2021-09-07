@@ -1,0 +1,21 @@
+# Machine Learning Foundations
+
+
+* **Linear Algebra**
+   * 1: [Intro to Linear Algebra]
+   * 2: [Linear Algebra II: Matrix Operations]
+* **Calculus**
+   * 3: [Calculus I: Limits & Derivatives]
+   * 4: [Calculus II: Partial Derivatives & Integrals]
+* **Probability and Statistics**
+   * 5: [Probability & Information Theory]
+   * 6: [Intro to Statistics]
+* **Computer Science**
+   * 7: [Algorithms & Data Structures]
+   * 8: [Optimization]
+   
+### Where and When
+**Programming**: All code demos will be in Python so experience with it or another object-oriented programming language would be helpful for following along with the code examples.
+
+**Mathematics**: Familiarity with secondary school-level mathematics will make the class easier to follow along with. If you are comfortable dealing with quantitative information -- such as understanding charts and rearranging simple equations -- then you should be well-prepared to follow along with all of the mathematics.
+
